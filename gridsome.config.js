@@ -6,8 +6,6 @@
 
 module.exports = {
   siteName: 'Web Keren',
-  siteDescription: 'Artikel pengembangan web menggunakan teknologi zaman now',
-
   plugins: [
     {
       // Create posts from markdown files
