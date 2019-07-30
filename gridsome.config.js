@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Web Keren',
-  siteDescription: 'Artikel pengembangan web menggunakan teknologi zaman now 😘',
+  siteDescription: 'Artikel pengembangan web menggunakan teknologi zaman now',
 
   plugins: [
     {
